@@ -1,7 +1,13 @@
-# Password Strength Calculator
+# Оценка сложности пароля
 
-[TODO. There will be project description]
+Скрипт оценивает сложность введенного пароля по шкале от 1 до 10.
 
-# Project Goals
+# Пример запуска
+```bash
+python password_strength.py
+Введите пароль: fjslfjlsf@FDK222
+Сложность Вашего пароля: 10 из 10
+```
 
-The code is written for educational purposes. Training course for web-developers - [DEVMAN.org](https://devman.org)
+# Цели проекта
+Код создан в учебных целях. В рамках учебного курса по веб-разработке - [DEVMAN.org](https://devman.org)
